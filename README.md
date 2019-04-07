@@ -1,6 +1,5 @@
 # twitter-fetch-all
-Python script to fetch all the tweets of the user from his/her timeline
- Python script which can fetch all the tweets  and dump the responses into JSONlines file.
+Python script to fetch all the tweets of the user from his/her timeline.This script which can fetch all the tweets  and dump the responses into JSONlines file.
  
  The other part of this script should be able to parse these JSONline files to display the
  following for every tweet in a tabular format.
