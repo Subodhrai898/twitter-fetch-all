@@ -34,8 +34,8 @@ Function used
  <li>Create_DataFrame</li>
  <li>jsonl_to_dataframe</li>
 </ol>
-
-
+<br>
+Here I used Pandas Dataframe to show and store data in Tabular from.Dataframes have columns Text , Like , Retweet_Count ,Number of Image.Here I used Datetime as index and create a Time Series.The benefit of Time Series Data is that we can easily analyse it.
 
 
 
