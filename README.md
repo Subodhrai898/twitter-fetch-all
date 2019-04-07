@@ -23,8 +23,18 @@ Use Tweepy module for twitter API<br>
 Use Jsonline module to dump all tweets in .jsonl file<br>
 Function used here get_tweets() for getting list of tweets<br>
 Use Pandas Dataframes to show and store data in tabular form<br>
-
-
+<br>
+get_tweets is our main function which call Rest Api of twitter and api.user_timeline used to fetch all the tweets.
+Here I used loop which extract tweet in bunch of 200 tweets at one time untill in next iteration we will not get any tweets.
+I also used extended mode to get all information of the tweet including images details and full text.
+<br>
+Function used
+<ol>
+ <li>get_tweets</li>
+ <li>store_jsonl</li>
+ <li>Create_DataFrame</li>
+ <li>jsonl_to_dataframe</li>
+</ol>
 
 
 
