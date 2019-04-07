@@ -11,17 +11,18 @@ Python script to fetch all the tweets of the user from his/her timeline
 ● Number of Images present in Tweet. If no image returns None.
 
 Modules required
-1.Pandas
-2.Jsonlines
-3.Tweepy
-4.Datetime
+<ol>
+ <li>Pandas</li>
+ <li>Jsonlines</li>
+ <li>Tweepy</li>
+ <li>Datetime</li>
+</ol>
 
-
-Here,I
-Use Tweepy module for twitter API
-Use Jsonline module to dump all tweets in .jsonl file"
-Function used here get_tweets() for getting list of tweets
-Use Pandas Dataframes to show and store data in tabular form
+Here,I<br>
+Use Tweepy module for twitter API<br>
+Use Jsonline module to dump all tweets in .jsonl file<br>
+Function used here get_tweets() for getting list of tweets<br>
+Use Pandas Dataframes to show and store data in tabular form<br>
 
 
 
